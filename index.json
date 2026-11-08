@@ -1,0 +1,11 @@
+{
+  "org": "bentoml",
+  "repo": "helm-charts",
+  "versions": [
+    {
+      "commit": "34abbcb4e548b17f67df717e88796459e8159b55",
+      "tag": "",
+      "parsed_at": "2026-11-08T11:20:46.148195+00:00"
+    }
+  ]
+}
