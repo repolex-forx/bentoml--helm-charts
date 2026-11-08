@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/bentoml/helm-charts/commit/34abbcb4e548b17f67df717e88796459e8159b55",
       "git:hexsha": "34abbcb4e548b17f67df717e88796459e8159b55",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T11:20:46.147810+00:00"
     }
   ]
 }
